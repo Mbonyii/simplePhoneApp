@@ -50,3 +50,36 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 "# simplePhoneApp" 
 # simplePhoneApp
+
+
+
+## Geofencing 
+uses location data, often from GPS, to create virtual boundaries around a geographic area, triggering actions when a device enters, leaves, or stays within those boundaries
+
+## Your home location adding longitude and latitude of your location 
+## ⁠pop-up notification for geofencing
+
+
+in the drawer for the profile once you want edit the profil it
+drops down a menu to bring up 
+
+camera and gallery 
+
+for contact
+------------ 
+list contacts  + initiate  a call 
+
+
+shared preferences
+------------------- 
+
+theme : from dark to light mode 
+
+
+CRUD for persistance of data with SQLite
+
+
+
+image plus => galleries 
+camera => access the camera to get images 
+contact => to access the contact locally
